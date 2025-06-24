@@ -1,6 +1,6 @@
 {
     "name": "com.seblague.bpathcreator",
-    "version": "1.2",
+    "version": "1.2.0",
     "displayName": "Bezier Path Creator",
     "description": "n/a",
     "unity": "2019.1",
