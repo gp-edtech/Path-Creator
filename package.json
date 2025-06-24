@@ -1,0 +1,17 @@
+{
+    "name": "com.seblague.bpathcreator",
+    "version": "1.2",
+    "displayName": "Bezier Path Creator",
+    "description": "n/a",
+    "unity": "2019.1",
+    "unityRelease": "18f1",
+    "keywords": [
+        "",
+        ""
+    ],
+    "author": {
+        "name": "Sebastian Lague",
+        "email": "seblague@gmail.com",
+        "url": "http://github.com/SebLague"
+    }
+}
